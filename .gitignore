@@ -5,7 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
+notebooks/Jobs-with-null-begin
+notebooks/Jobs-with-null-end
 
+ 
 data
 .DS_Store
 notebooks/ce5
